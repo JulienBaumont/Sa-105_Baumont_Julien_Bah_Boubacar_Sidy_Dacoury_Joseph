@@ -1,0 +1,157 @@
+﻿Date;Region;Filère;Valeur (TWh)
+2014;"Île-de-France";"Consommation ";71,003290441835
+2015;"Île-de-France";"Consommation ";73,214959325027
+2016;"Île-de-France";"Consommation ";73,992272513343
+2017;"Île-de-France";"Consommation ";72,277434439889
+2018;"Île-de-France";"Consommation ";71,67517719054
+2019;"Île-de-France";"Consommation ";70,37141293845
+2020;"Île-de-France";"Consommation ";65,824330204958
+2021;"Île-de-France";"Consommation ";69,178453944646
+2022;"Île-de-France";"Consommation ";66,532982238655
+2023;"Île-de-France";"Consommation ";63,180662008827
+2024;"Île-de-France";"Consommation ";64,709796329238
+2025;"Île-de-France";"Consommation ";58,90553032872
+2014;"Centre-Val de Loire";"Consommation ";17,74917789183
+2015;"Centre-Val de Loire";"Consommation ";18,148524157666
+2016;"Centre-Val de Loire";"Consommation ";18,418943490679
+2017;"Centre-Val de Loire";"Consommation ";18,415878932668
+2018;"Centre-Val de Loire";"Consommation ";18,120243264831
+2019;"Centre-Val de Loire";"Consommation ";18,194498382498
+2020;"Centre-Val de Loire";"Consommation ";17,517331980711
+2021;"Centre-Val de Loire";"Consommation ";18,194925515512
+2022;"Centre-Val de Loire";"Consommation ";17,526906247632
+2023;"Centre-Val de Loire";"Consommation ";17,28966138211
+2024;"Centre-Val de Loire";"Consommation ";17,662698157348
+2025;"Centre-Val de Loire";"Consommation ";15,879120112063
+2014;"Bourgogne-Franche-Comté";"Consommation ";20,711746183335
+2015;"Bourgogne-Franche-Comté";"Consommation ";20,813478009669
+2016;"Bourgogne-Franche-Comté";"Consommation ";21,818547135993
+2017;"Bourgogne-Franche-Comté";"Consommation ";21,840038243002
+2018;"Bourgogne-Franche-Comté";"Consommation ";21,342209368007
+2019;"Bourgogne-Franche-Comté";"Consommation ";21,203385074992
+2020;"Bourgogne-Franche-Comté";"Consommation ";20,091997306163
+2021;"Bourgogne-Franche-Comté";"Consommation ";21,303057927228
+2022;"Bourgogne-Franche-Comté";"Consommation ";19,918179642664
+2023;"Bourgogne-Franche-Comté";"Consommation ";19,555444840524
+2024;"Bourgogne-Franche-Comté";"Consommation ";19,558908004773
+2025;"Bourgogne-Franche-Comté";"Consommation ";17,595950262712
+2014;"Normandie";"Consommation ";27,494924369642
+2015;"Normandie";"Consommation ";27,785933618691
+2016;"Normandie";"Consommation ";28,64454834324
+2017;"Normandie";"Consommation ";28,135248872768
+2018;"Normandie";"Consommation ";27,990412758741
+2019;"Normandie";"Consommation ";27,742643806077
+2020;"Normandie";"Consommation ";26,430447624459
+2021;"Normandie";"Consommation ";27,491025985412
+2022;"Normandie";"Consommation ";26,348430444219
+2023;"Normandie";"Consommation ";25,607925084708
+2024;"Normandie";"Consommation ";26,134218536493
+2025;"Normandie";"Consommation ";23,102373627061
+2014;"Hauts-de-France";"Consommation ";50,119542954114
+2015;"Hauts-de-France";"Consommation ";50,406454718756
+2016;"Hauts-de-France";"Consommation ";50,982567151526
+2017;"Hauts-de-France";"Consommation ";50,829749134477
+2018;"Hauts-de-France";"Consommation ";50,774846955537
+2019;"Hauts-de-France";"Consommation ";49,607990644293
+2020;"Hauts-de-France";"Consommation ";47,243629455904
+2021;"Hauts-de-France";"Consommation ";49,642101011801
+2022;"Hauts-de-France";"Consommation ";47,193584567743
+2023;"Hauts-de-France";"Consommation ";46,252112323268
+2024;"Hauts-de-France";"Consommation ";46,315887467103
+2025;"Hauts-de-France";"Consommation ";42,246360896652
+2014;"Grand Est";"Consommation ";45,322098026531
+2015;"Grand Est";"Consommation ";45,771957533545
+2016;"Grand Est";"Consommation ";47,127062960174
+2017;"Grand Est";"Consommation ";46,976683691174
+2018;"Grand Est";"Consommation ";46,091517622581
+2019;"Grand Est";"Consommation ";45,69338118739
+2020;"Grand Est";"Consommation ";42,905922569392
+2021;"Grand Est";"Consommation ";45,471214828041
+2022;"Grand Est";"Consommation ";43,653740523526
+2023;"Grand Est";"Consommation ";41,120207757548
+2024;"Grand Est";"Consommation ";41,600320331929
+2025;"Grand Est";"Consommation ";37,38177140307
+2014;"Pays de la Loire";"Consommation ";26,126043852326
+2015;"Pays de la Loire";"Consommation ";26,548349560017
+2016;"Pays de la Loire";"Consommation ";27,446538173502
+2017;"Pays de la Loire";"Consommation ";27,324844044485
+2018;"Pays de la Loire";"Consommation ";27,38959557717
+2019;"Pays de la Loire";"Consommation ";27,159288587519
+2020;"Pays de la Loire";"Consommation ";26,008050949
+2021;"Pays de la Loire";"Consommation ";27,363254538166
+2022;"Pays de la Loire";"Consommation ";26,368675250174
+2023;"Pays de la Loire";"Consommation ";25,029743595816
+2024;"Pays de la Loire";"Consommation ";25,321669138488
+2025;"Pays de la Loire";"Consommation ";22,717489292062
+2014;"Bretagne";"Consommation ";21,564700793496
+2015;"Bretagne";"Consommation ";21,851081819
+2016;"Bretagne";"Consommation ";22,436380489659
+2017;"Bretagne";"Consommation ";22,247102382338
+2018;"Bretagne";"Consommation ";22,479510833841
+2019;"Bretagne";"Consommation ";22,569136935835
+2020;"Bretagne";"Consommation ";21,894400755834
+2021;"Bretagne";"Consommation ";22,753855461326
+2022;"Bretagne";"Consommation ";21,320998181099
+2023;"Bretagne";"Consommation ";21,415876983307
+2024;"Bretagne";"Consommation ";21,672997631127
+2025;"Bretagne";"Consommation ";19,368588725614
+2014;"Nouvelle-Aquitaine";"Consommation ";41,655639106926
+2015;"Nouvelle-Aquitaine";"Consommation ";43,169007817414
+2016;"Nouvelle-Aquitaine";"Consommation ";44,026965856007
+2017;"Nouvelle-Aquitaine";"Consommation ";44,066724500742
+2018;"Nouvelle-Aquitaine";"Consommation ";43,843082030568
+2019;"Nouvelle-Aquitaine";"Consommation ";43,458777894097
+2020;"Nouvelle-Aquitaine";"Consommation ";41,891970352652
+2021;"Nouvelle-Aquitaine";"Consommation ";43,88821114098
+2022;"Nouvelle-Aquitaine";"Consommation ";41,569450285693
+2023;"Nouvelle-Aquitaine";"Consommation ";40,959329575347
+2024;"Nouvelle-Aquitaine";"Consommation ";40,791836272859
+2025;"Nouvelle-Aquitaine";"Consommation ";36,67409322489
+2014;"Occitanie";"Consommation ";35,766376119119
+2015;"Occitanie";"Consommation ";37,100933187132
+2016;"Occitanie";"Consommation ";37,732946207516
+2017;"Occitanie";"Consommation ";38,469615700519
+2018;"Occitanie";"Consommation ";38,685362028935
+2019;"Occitanie";"Consommation ";38,294808713633
+2020;"Occitanie";"Consommation ";36,779275596755
+2021;"Occitanie";"Consommation ";38,162260865988
+2022;"Occitanie";"Consommation ";37,428555647351
+2023;"Occitanie";"Consommation ";36,099737702729
+2024;"Occitanie";"Consommation ";35,911163896299
+2025;"Occitanie";"Consommation ";32,009392564909
+2014;"Auvergne-Rhône-Alpes";"Consommation ";63,552769526949
+2015;"Auvergne-Rhône-Alpes";"Consommation ";66,256245891681
+2016;"Auvergne-Rhône-Alpes";"Consommation ";66,600435529463
+2017;"Auvergne-Rhône-Alpes";"Consommation ";66,659708139411
+2018;"Auvergne-Rhône-Alpes";"Consommation ";66,002438809292
+2019;"Auvergne-Rhône-Alpes";"Consommation ";64,504546074244
+2020;"Auvergne-Rhône-Alpes";"Consommation ";60,839219278081
+2021;"Auvergne-Rhône-Alpes";"Consommation ";64,647234615895
+2022;"Auvergne-Rhône-Alpes";"Consommation ";63,853864193597
+2023;"Auvergne-Rhône-Alpes";"Consommation ";60,993950362307
+2024;"Auvergne-Rhône-Alpes";"Consommation ";62,28405972253
+2025;"Auvergne-Rhône-Alpes";"Consommation ";56,252920568677
+2014;"Provence-Alpes-Côte d'Azur";"Consommation ";39,530315993055
+2015;"Provence-Alpes-Côte d'Azur";"Consommation ";40,757298898474
+2016;"Provence-Alpes-Côte d'Azur";"Consommation ";40,965726047752
+2017;"Provence-Alpes-Côte d'Azur";"Consommation ";41,243790592424
+2018;"Provence-Alpes-Côte d'Azur";"Consommation ";40,505108614026
+2019;"Provence-Alpes-Côte d'Azur";"Consommation ";40,840706914591
+2020;"Provence-Alpes-Côte d'Azur";"Consommation ";38,841140188844
+2021;"Provence-Alpes-Côte d'Azur";"Consommation ";41,045552743637
+2022;"Provence-Alpes-Côte d'Azur";"Consommation ";39,863992081349
+2023;"Provence-Alpes-Côte d'Azur";"Consommation ";38,687164015841
+2024;"Provence-Alpes-Côte d'Azur";"Consommation ";38,128690476677
+2025;"Provence-Alpes-Côte d'Azur";"Consommation ";34,716188861178
+2014;"Corse";"Consommation ";2,100321881
+2015;"Corse";"Consommation ";2,226598422
+2016;"Corse";"Consommation ";2,196023583
+2017;"Corse";"Consommation ";2,282447881
+2018;"Corse";"Consommation ";2,281243522
+2019;"Corse";"Consommation ";2,326199354
+2020;"Corse";"Consommation ";2,210715154
+2021;"Corse";"Consommation ";2,370163502
+2022;"Corse";"Consommation ";2,350222912709
+2023;"Corse";"Consommation ";2,260386363706
+2024;"Corse";"Consommation ";2,255331245937
+2025;"Corse";"Consommation ";2,015258783553
